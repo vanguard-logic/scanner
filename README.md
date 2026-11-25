@@ -1,3 +1,3 @@
-# Offline
+# scanner
 
-Taken offline at the owner's request on 26 Nov 2026. Earlier versions are in this repo's history.
+Forwards scanner.vanguardlogicdev.com to the Label Scanner app at https://vld-label-scanner.ai.studio (26 Nov 2026).
